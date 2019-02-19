@@ -167,5 +167,6 @@ SQL> @q10
 
 NAME
 ------------------------------
-Al Pacino
+Brad Pitt
+Morgan Freeman
 
